@@ -1,0 +1,10 @@
+{
+  "title": "飲み物の体験DB",
+  "pitch": "ここに、このデータを誰に・何のために使ってほしいか（活用主体への提案）を書きます。",
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "attribution": "このデータは、出典（このアプリ名）を表示すれば、誰でも自由に利用・改変・再配布できます。"
+  },
+  "goal_count": 30
+}

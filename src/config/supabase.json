@@ -1,0 +1,5 @@
+{
+  "_説明": "🔒 変更しないでください。31人共通のデータベースの接続先です（公開前提の値で、秘密の鍵ではありません）。",
+  "url": "https://YOUR-PROJECT.supabase.co",
+  "publishableKey": "sb_publishable_XXXXXXXXXXXXXXXX"
+}

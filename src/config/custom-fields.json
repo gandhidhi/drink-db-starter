@@ -1,0 +1,18 @@
+{
+  "temperature": {
+    "type": "select",
+    "question": "温度はどうでしたか？",
+    "options": ["冷たい", "常温", "温かい", "その他"]
+  },
+  "price_jpy": {
+    "type": "number",
+    "question": "いくらでしたか？（無料なら0）",
+    "unit": "円",
+    "min": 0,
+    "max": 1000
+  },
+  "with_someone": {
+    "type": "boolean",
+    "question": "誰かと一緒でしたか？"
+  }
+}
